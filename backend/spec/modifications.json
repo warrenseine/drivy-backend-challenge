@@ -1,0 +1,11 @@
+{
+  "cars": [
+    { "id": 1, "price_per_day": 1800, "price_per_km": 13 }
+  ],
+  "rentals": [
+    { "id": 1, "car_id": 1, "start_date": "2015-12-8", "end_date": "2015-12-8", "distance": 100, "deductible_reduction": true }
+  ],
+  "rental_modifications": [
+    { "id": 1, "rental_id": 1, "start_date": "2015-12-4", "end_date": "2015-12-15", "distance": 130 }
+  ]
+}
